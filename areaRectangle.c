@@ -4,3 +4,5 @@ int main(){
   int len, wid;
   printf("enter length");
   scanf("%d",&length);
+  printf("enter breadth");
+  
