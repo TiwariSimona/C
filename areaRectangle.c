@@ -5,4 +5,4 @@ int main(){
   printf("enter length");
   scanf("%d",&length);
   printf("enter breadth");
-  scanf("
+  scanf("%d
