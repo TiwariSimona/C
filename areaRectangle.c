@@ -6,3 +6,4 @@ int main(){
   scanf("%d",&length);
   printf("enter breadth");
   scanf("%d", &wid);
+  printf("
