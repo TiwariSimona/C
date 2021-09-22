@@ -2,4 +2,6 @@
 // Nothing returned
 //max betwwen 2 integers
 
-#include
+#include <stdio.h>
+#include<stdlib.h>
+
