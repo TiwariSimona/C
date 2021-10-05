@@ -7,7 +7,8 @@
 #include<stdlib.h>
 int maxBetween()
 {
-  int num
+  int num1,num2,num3;
+  
 
 
 
