@@ -15,4 +15,9 @@ void print Minmax(int num1,int num2)
   }
   
   int main(){
-    int
+    int a,b;
+    printf("Enter two numbers");
+    scanf("%d %d",&num1,&num2);
+    print MinMax(a,b);
+    return 0;
+  }
