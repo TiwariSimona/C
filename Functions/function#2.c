@@ -10,4 +10,9 @@ void print Minmax(int num1,int num2)
     printf("Max is %d",num1);
     printf("Min is %d",num2);
   }else{
-    
+    printf("Max is %d",num2);
+    printf("Min is %d",num1);
+  }
+  
+  int main(){
+    int
