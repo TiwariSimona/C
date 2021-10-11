@@ -10,5 +10,6 @@ int main(){
   else
     printf("Absolute number of %d is %d \n",num,num);
   return 0;
+ 
 }
 
