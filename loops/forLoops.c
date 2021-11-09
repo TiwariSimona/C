@@ -10,3 +10,4 @@ int manin(){
   }
   return 0;
 }
+
