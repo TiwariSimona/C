@@ -7,3 +7,4 @@ int main(){
   printf("The driving time from point A to B is %d hr\n",time);
   return 0;
 }
+
