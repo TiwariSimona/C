@@ -13,3 +13,4 @@ int main(){
     printf("Neither double nor triple digit number");
   return 0;
 }
+
