@@ -8,3 +8,5 @@ int main(){
   printf("enter breadth");
   scanf("%d", &wid);
   printf("Area
+
+         
